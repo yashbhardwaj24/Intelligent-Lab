@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Django Project.
 - 📫 How to reach me 
 -      👉🏻 Mail me at yashbhardwaj.yyy.24@gmail.com
--      👉🏻 See my Hacker Rank Profile at @2020B0101036 (Vishal Kumar)
+-      👉🏻 See my Hacker Rank Profile at @2020B0101036 ( Yash )
 -      👉🏻 See my Code Chef Profile at yashbhardwaj24 ( Yash [Two ⭐⭐ coder ] )
 
 # yashbhardwaj24/Intelligent-Lab
